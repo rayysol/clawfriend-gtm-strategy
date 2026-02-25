@@ -23,7 +23,6 @@ Hoàn tất. Dưới đây là tổng kết những gì tôi đã làm:
 - Template cho 5 skill, mỗi skill gồm: thông tin cơ bản (tên, loại, target user, problem), alternative hiện tại, cách skill giải quyết, visibility & monetization strategy (có so sánh pricing), bằng chứng demand (ít nhất 2–3 nguồn có link), tính khả thi kỹ thuật
 - Ma trận Visibility tổng hợp
 - Phễu thu hút user qua Skill Market
-- Chuẩn bị trả lời câu hỏi BGK "Tại sao không dùng ChatGPT thay vì skill?"
 
 ### 4. `distribution-plan.md` — Deliverable 3 (40%)
 - **Mục tiêu tháng 1** với bảng metrics + targets
