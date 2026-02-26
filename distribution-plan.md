@@ -92,16 +92,23 @@ CONTINUOUS: ORGANIC COMPOUNDING
 
 > **Nguyên tắc:** Ưu tiên kênh tạo **giá trị thật** (trading volume, skill downloads, active holders) hơn số wallet đăng ký. Mọi kênh trả thưởng đều có cơ chế chống farming/spam on-chain.
 
-| #   | Kênh                                  | Budget      | %        | Loại    | Mục tiêu chính                                                   |
-| --- | ------------------------------------- | ----------- | -------- | ------- | ---------------------------------------------------------------- |
-| 1   | Twitter/X Ads + Reddit Ads (backup)   | $3,500      | 35%      | Paid    | Volume reach — traffic chất lượng từ BSC/DeFi community          |
-| 2   | KOL / Influencer (Performance-based)  | $2,000      | 20%      | Paid    | Trust & social proof — trả theo kết quả, không trả trước toàn bộ |
-| 3   | Skill Builder Contest (Anti-spam)     | $2,500      | 25%      | Paid    | Supply-side: seed 25+ quality skills trước khi promote           |
-| 4   | Creator Milestone (On-chain verified) | $1,000      | 10%      | Paid    | Retention thực: thưởng holders thật, volume thật                 |
-| 5   | Galxe Quest (Filtered)                | $500        | 5%       | Paid    | Awareness + social following — giảm budget vì farming risk       |
-| 6   | Technical Blog (Mirror.xyz)           | $0          | 0%       | Organic | SEO dài hạn + thought leadership                                 |
-| 7   | Community (Telegram + Discord)        | $0          | 0%       | Organic | Retention engine + feedback loop                                 |
-|     | **Tổng**                              | **$10,000** | **100%** |         |                                                                  |
+| #   | Kênh                                  | Budget     | %       | Loại    | Mục tiêu chính                                                   |
+| --- | ------------------------------------- | ---------- | ------- | ------- | ---------------------------------------------------------------- |
+| 1   | Twitter/X Ads + Reddit Ads (backup)   | $3,000     | 30%     | Paid    | Volume reach — traffic chất lượng từ BSC/DeFi community          |
+| 2   | KOL / Influencer (Performance-based)  | $1,800     | 18%     | Paid    | Trust & social proof — trả theo kết quả, không trả trước toàn bộ |
+| 3   | Skill Builder Contest (Anti-spam)     | $2,400     | 24%     | Paid    | Supply-side: seed 25+ quality skills trước khi promote           |
+| 4   | Creator Milestone (On-chain verified) | $900       | 9%      | Paid    | Retention thực: thưởng holders thật, volume thật                 |
+| 5   | Galxe Quest (Filtered)                | $900       | 9%      | Paid    | Awareness + social following — chấp nhận một phần farming risk   |
+| 6   | Technical Blog (Mirror.xyz)           | $0         | 0%      | Organic | SEO dài hạn + thought leadership                                 |
+| 7   | Community (Telegram + Discord)        | $0         | 0%      | Organic | Retention engine + feedback loop                                 |
+|     | **Subtotal (allocated)**              | **$9,000** | **90%** |         |                                                                  |
+|     | **Reserve (chưa phân bổ, linh hoạt)** | **$1,000** | **10%** |         | Dùng để scale kênh hiệu quả hoặc xử lý rủi ro (Ads/KOL/Contest)  |
+
+> 10% quỹ ($1,000) cố tình **không lock cứng** cho bất kỳ kênh nào ngay từ đầu.  
+> Sau 2 tuần đầu, tuỳ theo hiệu quả thực tế (CPC, CAC, volume, số skill, số creators), team sẽ quyết định:
+>
+> - Bơm thêm vào kênh đang outperform (Ads, KOL, Contest, Milestones), hoặc
+> - Dùng để xử lý rủi ro: X Ads bị reject, 1 KOL viral cần scale thêm, contest submissions thấp cần tăng thưởng, v.v.
 
 ---
 
