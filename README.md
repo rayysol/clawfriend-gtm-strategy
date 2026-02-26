@@ -20,7 +20,7 @@
 
 ## Web Presentation
 
-> **Link:** [PASTE_GEMINI_CANVAS_LINK_HERE] (soon)
+> **Link:** [https://gemini.google.com/share/5803c879d111]
 
 ## AI Showcase
 
