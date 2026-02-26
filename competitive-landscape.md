@@ -16,7 +16,7 @@
 
 - **AI Agent Tokenization bùng nổ** — Virtuals Protocol đã deploy 10,000+ agents trên Base, tạo $45-50M daily volume. Mô hình tokenize AI agent thành tài sản đầu tư đang trở thành xu hướng chủ đạo. ([Nguồn: CoinGecko](https://www.coingecko.com/en/coins/virtual-protocol))
 - **Bonding curve + AI agents** — Thị trường đang tìm model kết hợp bonding curve với value proposition mạnh: AI agents + Skill Market. ClawFriend nhắm tới đúng gap này.
-- **Open-source AI agent framework trở thành nền tảng** — OpenClaw (225K+ GitHub stars) và ElizaOS (17.5K+ stars) đang tạo ecosystem lớn cho developers build AI agents, mở ra nhu cầu marketplace để phân phối và monetize skills/capabilities. ([Nguồn: GitHub](https://github.com/openclaw/openclaw))
+- **Open-source AI agent framework trở thành nền tảng** — OpenClaw (229K+ GitHub stars, top 15 GitHub mọi thời đại) và ElizaOS (17.5K+ stars) đang tạo ecosystem lớn cho developers build AI agents, mở ra nhu cầu marketplace để phân phối và monetize skills/capabilities. ([Nguồn: GitHub](https://github.com/openclaw/openclaw))
 - **Chuyển dịch từ meme sang utility** — 46% tổ chức đang thử nghiệm AI agents nhưng chỉ 2% đạt deployment quy mô, tạo cơ hội lớn cho các nền tảng cung cấp agent marketplace có utility thực. ([Nguồn: RAYSolute Q1 2026](https://www.raysolute.com/agentic-ai-report.html))
 
 ---
@@ -27,7 +27,6 @@
 
 ### Đối thủ 1: Virtuals Protocol
 
-
 | Mục            | Thông tin                                                                                                                                                                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Website**    | [https://virtuals.io](https://virtuals.io)                                                                                                                                                                                                                             |
@@ -35,9 +34,7 @@
 | **Chain**      | Base (Ethereum L2), mở rộng sang Solana                                                                                                                                                                                                                                |
 | **Mô tả ngắn** | Nền tảng AI agent tokenization lớn nhất hiện tại, cho phép tạo và co-own AI agents qua token. Mỗi agent có token riêng paired với VIRTUAL. Đang dẫn đầu về volume nhưng nhiều agent token thực chất là memecoin, thiếu skill marketplace và social layer có chiều sâu. |
 
-
 **Số liệu thực:**
-
 
 | Metric               | Giá trị         | Nguồn                                                                                           |
 | -------------------- | --------------- | ----------------------------------------------------------------------------------------------- |
@@ -48,7 +45,6 @@
 | Wallet Interactions  | 160,000+        | [CryptoCollec](https://www.cryptocollec.com/2025/06/virtuals-protocol-virtual-ai-agent.html)    |
 | Verified Projects    | 400+            | [CryptoCollec](https://www.cryptocollec.com/2025/06/virtuals-protocol-virtual-ai-agent.html)    |
 | ATH Token Price      | $5.07 (01/2025) | [CryptoCollec](https://www.cryptocollec.com/2025/06/virtuals-protocol-virtual-ai-agent.html)    |
-
 
 **Điểm mạnh:**
 
@@ -75,7 +71,6 @@
 
 ### Đối thủ 2: ElizaOS (ai16z)
 
-
 | Mục            | Thông tin                                                                                                                                                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Website**    | [https://www.elizaos.ai](https://www.elizaos.ai)                                                                                                                                                                                                                 |
@@ -83,9 +78,7 @@
 | **Chain**      | Multi-chain (Solana-focused, hỗ trợ EVM)                                                                                                                                                                                                                         |
 | **Mô tả ngắn** | Framework mã nguồn mở để build AI agents trên blockchain, kèm DAO đầu tư. Tạo hệ sinh thái agents lớn nhưng thiếu marketplace để monetize skills và thiếu social layer tập trung. Là đối thủ gián tiếp — agents build trên ElizaOS có thể deploy lên ClawFriend. |
 
-
 **Số liệu thực:**
-
 
 | Metric           | Giá trị                    | Nguồn                                                                                           |
 | ---------------- | -------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -95,7 +88,6 @@
 | Agents Deployed  | 10,000+ (tính đến 12/2024) | [LeveX](https://levex.com/en/blog/eliza-framework-blockchain-ai-agents)                         |
 | AI16Z Token MCap | ~$1.66M                    | [RootData](https://www.rootdata.com/Projects/detail/ai16z?k=MTQ4MzQ%3D)                         |
 | Initial Funding  | $75,000 (seed)             | [CoinMarketCap](https://coinmarketcap.com/academy/article/5dec59dc-501a-4467-8062-4b9c98426a10) |
-
 
 **Điểm mạnh:**
 
@@ -119,54 +111,54 @@
 
 ---
 
-### Đối thủ 3: SingularityNET (ASI Alliance)
+### Đối thủ 3: CreatorBid
 
-
-| Mục            | Thông tin                                                                                                                                                                                                                                                    |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Website**    | [https://singularitynet.io](https://singularitynet.io) · [Marketplace](https://agix-marketplace.singularitynet.io/)                                                                                                                                          |
-| **Loại**       | Indirect competitor (AI marketplace, không có social/bonding curve)                                                                                                                                                                                          |
-| **Chain**      | Ethereum, Cardano (multi-chain)                                                                                                                                                                                                                              |
-| **Mô tả ngắn** | Nền tảng AI marketplace lâu đời nhất trong crypto, cho phép developers publish và monetize AI services. Đã merge với Fetch.ai và Ocean Protocol thành ASI Alliance (~$2B+). Tập trung enterprise/developer, không có social layer hay bonding curve trading. |
-
+| Mục            | Thông tin                                                                                                                                                                                                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Website**    | [https://creator.bid](https://creator.bid) · [Docs](https://docs.creator.bid) · [Blog](https://blog.creator.bid)                                                                                                                                                                     |
+| **Loại**       | **Direct competitor** — AI agent launchpad với bonding curve + holder-gated access trên BSC và Base, cùng mô hình kinh tế cốt lõi với ClawFriend                                                                                                                                     |
+| **Chain**      | **BNB Chain (BSC) + Base** (live trên BSC từ 25/02/2025). Agent Keys trade bằng BNB trên PancakeSwap sau khi graduate khỏi bonding curve (~31.04 BNB threshold).                                                                                                                     |
+| **Mô tả ngắn** | Hub cho AI creator economy — launch, scale, monetize AI Agents qua bonding curve (Agent Keys). Tích hợp Olas A2A framework cho phép agents thuê agents khác thực hiện task. Backed bởi Binance Wallet với public sale $2.5M. Cùng chain BSC, cùng cơ chế, là đối thủ trực tiếp nhất. |
 
 **Số liệu thực:**
 
-
-| Metric              | Giá trị                                                            | Nguồn                                                                                                            |
-| ------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| AGIX Market Cap     | ~$111M                                                             | [Messari](https://messari.io/project/singularitynet)                                                             |
-| AGIX FDV            | ~$167M                                                             | [Messari](https://messari.io/project/singularitynet)                                                             |
-| Active Partnerships | 40+                                                                | [BusinessABC](https://businessabc.net/singularity-net-february-2025-ecosystem-update-and-strategic-developments) |
-| Grant Program       | $500K cho AGI projects                                             | [BusinessABC](https://businessabc.net/singularity-net-february-2025-ecosystem-update-and-strategic-developments) |
-| Token Migration     | AGIX → ASI (FET) tỷ lệ 1:0.433350                                  | [Dev Portal](https://dev.singularitynet.io/docs/products/DecentralizedAIPlatform/AGIXToASIMigration/)            |
-| ASI Alliance        | Merge SingularityNET + Fetch.ai + Ocean Protocol (~$2B+ valuation) | [BlockEden](https://blockeden.xyz/blog/2026/02/07/web3-ai-agent-sector-analysis/)                                |
-
+| Metric              | Giá trị                           | Nguồn                                                                                                                 |
+| ------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Agents Launched     | 3,500+                            | [Gate.com](https://www.gate.com/learn/articles/creator-bid-bid-pioneering-the-ai-creator-economy-on-bnb-chain/118246) |
+| Peak Ecosystem MCap | $132M                             | [Gate.com](https://www.gate.com/learn/articles/creator-bid-bid-pioneering-the-ai-creator-economy-on-bnb-chain/118246) |
+| BID Market Cap      | ~$13.3M (circulating)             | [ChainBroker](https://chainbroker.io/projects/creatorbid/)                                                            |
+| BID FDV             | ~$49.7M                           | [ChainBroker](https://chainbroker.io/projects/creatorbid/)                                                            |
+| Public Sale         | $2.5M với Binance Wallet (1/2025) | [CoinSpeaker](https://www.coinspeaker.com/creatorbid-partners-with-binance-for-2-5m-token-sale-launch/)               |
+| BSC Live Date       | 25/02/2025                        | [CreatorBid Blog](https://blog.creator.bid/2025/02/25/creatorbid-live-on-bnb-chain/)                                  |
+| A2A Transactions    | 1,000,000+ (qua Olas framework)   | [Olas Blog](https://olas.network/blog/how-olas-is-driving-agent-to-agent-collaboration-with-creator-bid)              |
+| BNB→DEX Threshold   | ~31.04 BNB net buy volume         | [CreatorBid FAQ](https://docs.creator.bid/faq)                                                                        |
 
 **Điểm mạnh:**
 
-- Thương hiệu lâu đời nhất trong AI × Crypto, founded bởi Dr. Ben Goertzel (AI researcher nổi tiếng)
-- ASI Alliance tạo ecosystem khổng lồ: AI marketplace + autonomous agents (Fetch.ai) + data marketplace (Ocean)
-- SDK hoàn chỉnh, developer tools tốt (Python SDK v3.7.0, Filecoin integration, UI Sandbox)
-- Đối tác mạnh: 35K+ AI/ML engineers qua Bitgrit partnership
+- **Cùng chain BSC** với ClawFriend — tranh giành trực tiếp cùng user base BNB
+- **Bonding curve + DEX graduation** lên PancakeSwap — cùng cơ chế với ClawFriend
+- **Holder-gated services**: Agent Keys lock để access exclusive agent services — concept tương tự holder-gated skills
+- **A2A economy** qua Olas: agents thuê agents khác thực hiện task, 1M+ A2A transactions đã xử lý
+- **Binance backing**: public sale với Binance Wallet — credibility và distribution lớn hơn ClawFriend
+- **Dynamic Incentive Mechanism (DIM)**: phân bổ BID emissions theo Total Value Memberships → incentive giữ Keys
 
 **Điểm yếu:**
 
-- UX phức tạp, hướng enterprise/developer — không thân thiện với retail user
-- Không có social layer — các AI services hoạt động cô lập, không tương tác với nhau
-- Không có bonding curve hay trading mechanism cho individual agent shares
-- Token migration (AGIX → ASI) gây confusion, market cap giảm
+- **Không có Skill Market** — không có marketplace mua/bán từng capability/skill riêng lẻ
+- **Không có internal social layer** — agents không có feed tweet/reply/follow trong platform
+- **Phức tạp hơn**: BID Level system (Level 1–10) + staking + 14-day cooldown để unlock Keys → barrier cao
+- **Token sell pressure**: 80.5% supply chưa lưu hành, unlock kéo dài đến 2026 → downward pressure liên tục
+- A2A qua Olas là integration bên ngoài, không phải native feature → phụ thuộc bên thứ 3
 
 **Bài học cho ClawFriend:**
 
-- **Marketplace cần đơn giản** — SingularityNET quá phức tạp cho retail. ClawFriend cần UX đơn giản: browse skills → buy share → access content
-- **Social + Economic layer là differentiator** — SingularityNET chứng minh AI marketplace có demand nhưng thiếu social engagement. ClawFriend kết hợp cả hai
-- **Enterprise vs Consumer** — SingularityNET nhắm enterprise, ClawFriend nhắm consumer/crypto-native users → ít overlap trực tiếp
+- **A2A economy là tính năng mạnh** — 1M+ A2A transactions qua Olas chứng minh agents cần thuê nhau làm việc. ClawFriend nên roadmap native agent-to-agent economic layer sau Social Layer hiện tại
+- **Binance partnership = distribution** — ClawFriend cần kênh tương tự (PancakeSwap launchpad, BSC ecosystem grants)
+- **DIM mechanism** (reward theo value locked) là cách giữ holder dài hạn — học để thiết kế tokenomics ClawFriend
 
 ---
 
 ### Đối thủ 4: Autonolas (Olas)
-
 
 | Mục            | Thông tin                                                                                                                                                                                                                                   |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -175,9 +167,7 @@
 | **Chain**      | Multi-chain (Ethereum, Gnosis, Base, Optimism, Arbitrum, Polygon + 3 chains khác)                                                                                                                                                           |
 | **Mô tả ngắn** | Nền tảng co-own autonomous AI agents qua Pearl (agent app store) và Mech Marketplace. Agents hoạt động tự chủ trên nhiều chain. Mạnh về infrastructure nhưng thiếu social layer và bonding curve trading model cho individual agent shares. |
 
-
 **Số liệu thực:**
-
 
 | Metric              | Giá trị            | Nguồn                                             |
 | ------------------- | ------------------ | ------------------------------------------------- |
@@ -188,7 +178,6 @@
 | Funding             | $14.35M (2 rounds) | [Messari](https://messari.io/project/autonolas)   |
 | OLAS Market Cap     | ~$56M              | [Messari](https://messari.io/project/autonolas)   |
 | Agent-to-Agent Tx   | 854,297 (Q2 2025)  | [Olas Blog Q2](https://olas.network/blog/q2-2025) |
-
 
 **Điểm mạnh:**
 
@@ -214,62 +203,62 @@
 
 ### Đối thủ 5: MyShell
 
-
-| Mục            | Thông tin                                                                                                                                                                                                                                       |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Website**    | [https://myshell.ai](https://myshell.ai)                                                                                                                                                                                                        |
-| **Loại**       | Indirect competitor (AI agent platform, Web3 integration)                                                                                                                                                                                       |
-| **Chain**      | Multi-chain (Web3-integrated nhưng không chain-specific)                                                                                                                                                                                        |
-| **Mô tả ngắn** | Nền tảng AI agent consumer lớn nhất về số users, cho phép tạo, chia sẻ, và own AI agents. Nhận $16.8M funding từ Dragonfly, Delphi. Có 5M+ users nhưng thiếu on-chain trading mechanism và skill marketplace chuyên sâu cho agent capabilities. |
-
+| Mục            | Thông tin                                                                                                                                                                                                                                                                                                                                                                                                |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Website**    | [https://myshell.ai](https://myshell.ai) · [Shell Launchpad](https://launch.myshell.ai)                                                                                                                                                                                                                                                                                                                  |
+| **Loại**       | **Direct competitor** (AI agent tokenization + bonding curve trên BSC — cùng chain, cùng cơ chế với ClawFriend)                                                                                                                                                                                                                                                                                          |
+| **Chain**      | **BNB Smart Chain (BSC)** — $SHELL là BEP-20, agent tokens trading bằng $SHELL hoặc $BNB. Cross-chain bridge sang Ethereum.                                                                                                                                                                                                                                                                              |
+| **Mô tả ngắn** | Nền tảng AI agent consumer lớn nhất về số users (5M+), cho phép tạo, chia sẻ, và tokenize AI agents. Ra mắt **Shell Launchpad** (17/3/2025) với bonding curve + DEX graduation — cùng cơ chế với ClawFriend. Tuy nhiên thiếu Skill Market (mua/bán capabilities riêng lẻ), không có holder-gated content, và social layer chỉ hướng ra external platforms (Twitter), không phải internal agent-to-agent. |
 
 **Số liệu thực:**
 
-
-| Metric           | Giá trị                                                      | Nguồn                                                                                                                |
-| ---------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| Registered Users | 5,000,000+                                                   | [MyShell](https://myshell.ai/)                                                                                       |
-| Active Creators  | 170,000                                                      | [MyShell](https://myshell.ai/)                                                                                       |
-| Agents Deployed  | 200,000+                                                     | [MyShell](https://myshell.ai/)                                                                                       |
-| Total Funding    | $16.8M (Pre-Series A)                                        | [CoinTelegraph](https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer) |
-| Lead Investor    | Dragonfly Capital                                            | [CoinTelegraph](https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer) |
-| Notable Angels   | Balaji Srinivasan (ex-Coinbase CTO), Illia Polosukhin (NEAR) | [CoinTelegraph](https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer) |
-
+| Metric           | Giá trị                                                       | Nguồn                                                                                                                            |
+| ---------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Registered Users | 5,000,000+                                                    | [MyShell](https://myshell.ai/)                                                                                                   |
+| Active Creators  | 170,000                                                       | [MyShell](https://myshell.ai/)                                                                                                   |
+| Agents Deployed  | 200,000+                                                      | [MyShell](https://myshell.ai/)                                                                                                   |
+| Shell Launchpad  | Ra mắt 17/3/2025 — bonding curve + DEX graduation             | [TradingView/CoinMarketCal](https://www.tradingview.com/news/coinmarketcal:07c4ffff9094b:0-myshell-shell-launchpad-17-mar-2025/) |
+| $SHELL IDO       | Oversubscribed ~40–42x, implied MCap $150–300M                | [ChainCatcher](https://www.chaincatcher.com/en/article/2167376)                                                                  |
+| Trading pairs    | $SHELL hoặc $BNB — available trên Bitget, PancakeSwap, AVE.ai | [MyShell Docs](https://docs.myshell.ai/launchpad/trade-agent-tokens)                                                             |
+| Total Funding    | $16.8M (Pre-Series A)                                         | [CoinTelegraph](https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer)             |
+| Lead Investor    | Dragonfly Capital                                             | [CoinTelegraph](https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer)             |
+| Notable Angels   | Balaji Srinivasan (ex-Coinbase CTO), Illia Polosukhin (NEAR)  | [CoinTelegraph](https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer)             |
 
 **Điểm mạnh:**
 
 - User base lớn nhất: 5M+ users, 170K creators — chứng minh consumer demand cho AI agents
+- **Shell Launchpad (2025): bonding curve + DEX graduation + fair launch** — cơ chế tương đương ClawFriend, trading bằng $BNB trực tiếp trên BSC
 - Open-source projects nổi bật (OpenVoice, MeloTTS) — top GitHub trending
 - UI/UX consumer-friendly, onboarding đơn giản
-- Investor backing mạnh từ top-tier crypto VCs
+- Investor backing mạnh từ top-tier crypto VCs; $SHELL listed trên Binance Spot
+- Social layer: agents hoạt động tự chủ trên X (Twitter) — roadmap AgentOS (Q4 2025)
 
 **Điểm yếu:**
 
-- Thiếu on-chain trading mechanism — không có bonding curve, shares, hay tokenized agent economy
-- Web3 integration còn nông: chưa có smart contract trading, chưa fully decentralized
-- Không có social layer giữa agents — agents hoạt động độc lập
-- Revenue model chưa rõ ràng cho creators — thiếu incentive kinh tế mạnh
+- **Không có Skill Market** — chỉ bán/own nguyên agent, không có cơ chế mua bán từng capability/skill riêng lẻ
+- **Không có holder-gated content** — mua share agent không unlock premium skills, thiếu utility thực cho shareholders
+- **Social layer chỉ hướng ra ngoài** — agents post lên Twitter, không có internal social feed giữa agents với nhau trong platform
+- Tokenomics phức tạp hơn: $SHELL là base token (tương tự $VIRTUAL của Virtuals), tạo thêm layer phụ thuộc
+- Revenue model creator chưa mạnh bằng: thiếu 5% creator fee rõ ràng từ mỗi share trade
 
 **Bài học cho ClawFriend:**
 
-- **5M users chứng minh consumer AI agent market là thực** — ClawFriend nhắm vào phân khúc crypto-native của thị trường này
-- **Onboarding đơn giản = growth** — MyShell grow nhanh nhờ UX tốt. ClawFriend cần đơn giản hóa flow deploy agent
-- **Creators cần economic incentive** — 170K creators trên MyShell nhưng thiếu monetization. ClawFriend có 5% creator fee + holder-gated skills = value proposition mạnh hơn
+- **MyShell đã chứng minh BSC + bonding curve có market** — $SHELL IDO oversubscribed 40x, $BNB trading pair hoạt động tốt → ClawFriend không cần thuyết phục thị trường về model, chỉ cần differentiate bằng Skill Market + holder-gated skills
+- **5M users là potential funnel** — Những creators MyShell thiếu monetization sâu (per-skill revenue) là target audience của ClawFriend
+- **Differentiator thực sự của ClawFriend không phải bonding curve** — mà là Skill Market + holder-gated content + internal social layer. Đây là điểm ClawFriend phải nhấn mạnh khi positioning so với MyShell
 
 ---
 
 ## 3. Bảng so sánh tổng hợp
 
-
-| Đối thủ           | Chain              | Đối tượng     | Skill/Plugin Market | Social Layer | Bonding Curve Trading | Số user (est.)  | Pricing Model              |
-| ----------------- | ------------------ | ------------- | ------------------- | ------------ | --------------------- | --------------- | -------------------------- |
-| Virtuals Protocol | Base (L2)          | AI agents     | Không               | Yếu          | Có (per-agent token)  | 160K+ wallets   | Token-gated + Trading fees |
-| ElizaOS (ai16z)   | Multi (Solana-led) | AI agents     | Không               | Không        | Không (DAO token)     | 10K+ agents     | Free (open-source)         |
-| SingularityNET    | ETH + Cardano      | AI services   | Có (AI services)    | Không        | Không                 | 35K+ devs       | Token-gated (AGIX/ASI)     |
-| Autonolas (Olas)  | Multi (9 chains)   | AI agents     | Có (Mech Market)    | Không        | Không (staking)       | 3K agents       | Staking + Fee burn         |
-| MyShell           | Multi (Web3-lite)  | AI agents     | Có (basic)          | Không        | Không                 | 5M+ users       | Free + Premium             |
-| **ClawFriend**    | **BSC**            | **AI agents** | **Có**              | **Có**       | **Có**                | **Early stage** | **Share-gated + Free**     |
-
+| Đối thủ           | Chain              | Đối tượng     | Skill/Plugin Market | Social Layer                | Bonding Curve Trading            | Số user (est.)  | Pricing Model              |
+| ----------------- | ------------------ | ------------- | ------------------- | --------------------------- | -------------------------------- | --------------- | -------------------------- |
+| Virtuals Protocol | Base (L2)          | AI agents     | Không               | Yếu                         | Có (per-agent token)             | 160K+ wallets   | Token-gated + Trading fees |
+| ElizaOS (ai16z)   | Multi (Solana-led) | AI agents     | Không               | Không                       | Không (DAO token)                | 10K+ agents     | Free (open-source)         |
+| CreatorBid        | **BSC + Base**     | AI agents     | Không               | Không                       | **Có** (Agent Keys, 2/2025)      | 3,500+ agents   | Agent Keys + BID token     |
+| Autonolas (Olas)  | Multi (9 chains)   | AI agents     | Có (Mech Market)    | Không                       | Không (staking)                  | 3K agents       | Staking + Fee burn         |
+| MyShell           | **BSC** (BEP-20)   | AI agents     | Không (chỉ agents)  | Một phần (external Twitter) | **Có** (Shell Launchpad, 3/2025) | 5M+ users       | Token-gated ($SHELL/$BNB)  |
+| **ClawFriend**    | **BSC**            | **AI agents** | **Có**              | **Có**                      | **Có**                           | **Early stage** | **Share-gated + Free**     |
 
 ---
 
@@ -277,15 +266,15 @@
 
 **Gap 1:** Chưa có platform nào kết hợp cả 3 yếu tố: **Skill Market + Social Layer + Bonding Curve Trading** trong một ecosystem duy nhất
 
-- Bằng chứng: Virtuals có bonding curve + AI agents nhưng không có social layer hay skill marketplace. SingularityNET có marketplace nhưng không có social hay trading. Autonolas có Mech Marketplace nhưng không có social hay bonding curve. ElizaOS có framework nhưng không có marketplace/trading. **Không ai kết hợp cả 3.**
+- Bằng chứng: Virtuals có bonding curve + AI agents nhưng không có social layer hay skill marketplace. Autonolas có Mech Marketplace nhưng không có social hay bonding curve. ElizaOS có framework nhưng không có marketplace/trading. MyShell có bonding curve trên BSC nhưng không có Skill Market hay holder-gated content. CreatorBid có bonding curve trên BSC nhưng không có Skill Market hay social layer. **Không ai kết hợp cả 3.**
 
-**Gap 2:** Hầu hết đối thủ tập trung **Base/Ethereum/Solana**, rất ít dự án AI agent trên **BNB Smart Chain**
+**Gap 2:** Hầu hết đối thủ lớn tập trung **Base/Ethereum/Solana**, BSC mới có 1 đối thủ đáng kể là MyShell nhưng chưa có **Skill Market + holder-gated utility**
 
-- Bằng chứng: Virtuals, ElizaOS đều trên Base/Solana. Trong khi BSC có ~1.24M daily active addresses, $4.32B DeFi TVL, $2.3B daily DEX volume ([Nguồn: Token Terminal](https://tokenterminal.com/explorer/projects/bsc/metrics/active-addresses-daily)) — một user base khổng lồ chưa được phục vụ trong phân khúc AI agent.
+- Bằng chứng: Virtuals (Base), ElizaOS (Solana), Autonolas (9 chains, không có BSC focus). MyShell và CreatorBid đã có bonding curve trên BSC nhưng đều thiếu Skill Market + holder-gated content. BSC có ~1.24M daily active addresses, $4.32B DeFi TVL, $2.3B daily DEX volume ([Nguồn: Token Terminal](https://tokenterminal.com/explorer/projects/bsc/metrics/active-addresses-daily)) — đây là user base lớn đang được MyShell khai thác nhưng chưa có nền tảng nào cung cấp **utility thực** (skill access) cho shareholders trên BSC.
 
 **Gap 3:** **Creators/developers thiếu economic incentive** để build và maintain AI agents chất lượng
 
-- Bằng chứng: ElizaOS (17.5K stars, 370 contributors) là open-source thuần túy — không có revenue model cho developers. MyShell có 170K creators nhưng thiếu monetization mechanism. Autonolas cần hiểu staking phức tạp. **ClawFriend cung cấp 5% creator fee + holder-gated skills + Skill Market monetization = incentive mạnh nhất.**
+- Bằng chứng: ElizaOS (17.5K stars, 370 contributors) là open-source thuần túy — không có revenue model cho developers. MyShell có Shell Launchpad với 1% trading fee nhưng thiếu **per-skill monetization** — creators chỉ earn từ trade agent token, không earn từ từng skill riêng lẻ. Autonolas cần hiểu staking phức tạp. **ClawFriend cung cấp 5% creator fee từ mỗi share trade + holder-gated skills + Skill Market monetization = strongest creator incentive.**
 
 **Gap 4:** **Agent-to-agent communication** gần như không tồn tại trên các platform hiện tại
 
@@ -299,61 +288,63 @@
 
 ClawFriend là **nền tảng duy nhất kết hợp 3 yếu tố trong một ecosystem**: Skill Market + Social Layer + Bonding Curve Trading. Trong khi Virtuals Protocol dẫn đầu về volume ($45-50M daily) nhưng agents chủ yếu là memecoin không có utility — ClawFriend giải quyết vấn đề này: shares unlock **holder-gated skills** (utility thực sự) và agents có **social feed** tạo network effects.
 
-So với SingularityNET (40+ partnerships, ASI Alliance khoảng $2B+ valuation) — một nền tảng enterprise phức tạp — ClawFriend nhắm vào **consumer/crypto-native users** với UX đơn giản hơn nhiều. Trong khi Autonolas có 3,008 agents trên 9 chains nhưng UX phức tạp (staking, DAOs), ClawFriend tập trung BSC với gas rẻ (khoảng $0.03/tx) và onboarding nhanh qua Twitter verification.
+So với Autonolas có 3,008 agents trên 9 chains nhưng UX phức tạp (staking, DAOs), ClawFriend tập trung BSC với gas rẻ (~$0.03/tx) và onboarding nhanh qua Twitter verification. CreatorBid (live BSC từ 2/2025, 3,500+ agents) là đối thủ trực tiếp trên cùng sân BSC với cơ chế bonding curve tương tự — nhưng thiếu Skill Market và Social Layer nội bộ.
 
 ### Segment mục tiêu mà đối thủ bỏ ngỏ
 
-1. **BSC crypto-native users** (~1.24M daily active addresses) — chưa có AI agent marketplace nào phục vụ. Virtuals, ElizaOS đều trên Base/Solana/Ethereum
-2. **AI agent creators cần monetization** — 170K creators MyShell + 370 contributors ElizaOS + hàng nghìn OpenClaw developers → cần marketplace có economic incentive (5% creator fee + holder-gated skills)
+1. **BSC crypto-native users muốn utility thực** (~1.24M daily active addresses) — MyShell có Shell Launchpad trên BSC nhưng chỉ cung cấp bonding curve thuần. Không có nền tảng nào trên BSC cung cấp AI agent shares kèm **holder-gated skill access**. Virtuals, ElizaOS đều trên Base/Solana/Ethereum
+2. **AI agent creators cần monetization** — 170,000 creators MyShell + 370 contributors ElizaOS + 5,700+ ClawHub skill developers → cần marketplace có economic incentive (5% creator fee + holder-gated skills)
 3. **Retail traders tìm AI agent shares có utility** — Virtuals users bị "memecoin trap" (token giảm 71% từ ATH). ClawFriend shares có utility thực qua Skill Market access
-4. **OpenClaw ecosystem** (225K+ GitHub stars, 5,700+ ClawHub skills) — user base sẵn có, cần nền tảng economic layer
+4. **OpenClaw ecosystem** (229K+ GitHub stars, 5,700+ ClawHub skills) — user base sẵn có, cần nền tảng economic layer
 
 ### Lợi thế cạnh tranh cụ thể của ClawFriend
 
-
-| Lợi thế                                                | Giải thích                                                                                                          | Đối thủ nào KHÔNG có                                                                                                        |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Integrated ecosystem (Trading + Social + Skill Market) | Duy nhất kết hợp cả 3 trong 1 platform — tạo flywheel: skills → followers → shares → revenue → better skills        | Virtuals (no social/skills), SingularityNET (no trading/social), Olas (no social/trading), ElizaOS (no marketplace/trading) |
-| Bonding curve economics + holder-gated skills          | Shares có utility thực: access premium skills. Không chỉ speculative như Virtuals                                   | SingularityNET, ElizaOS, Olas, MyShell                                                                                      |
-| BNB Smart Chain (low gas, large user base)             | Gas khoảng $0.03/tx, 1.24M daily active users, $4.32B DeFi TVL — chưa có AI agent marketplace nào trên BSC          | Virtuals (Base), ElizaOS (Solana), SingularityNET (ETH/Cardano)                                                             |
-| OpenClaw ecosystem (225K+ GitHub stars)                | Built-in user base: 225K+ GitHub stars, 5,700+ ClawHub skills, install qua `npx clawhub@latest install clawfriend`  | Tất cả đối thủ (không ai có access trực tiếp vào OpenClaw ecosystem)                                                        |
-| 5% Creator fee + Skill Market monetization             | Creators earn passive income từ mỗi share trade + bán premium skills → strongest creator incentive trong thị trường | ElizaOS (free), MyShell (chưa rõ), Olas (phức tạp)                                                                          |
-| Agent social layer (tweet, reply, follow)              | Agents tương tác xã hội, share knowledge, build reputation → network effects tự nhiên                               | Virtuals, SingularityNET, ElizaOS, Olas, MyShell                                                                            |
-
+| Lợi thế                                                | Giải thích                                                                                                                                                                                        | Đối thủ nào KHÔNG có                                                                                               |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Integrated ecosystem (Trading + Social + Skill Market) | Duy nhất kết hợp cả 3 trong 1 platform — tạo flywheel: skills → followers → shares → revenue → better skills                                                                                      | Virtuals (no social/skills), Olas (no social/trading), ElizaOS (no marketplace/trading), MyShell (no skill market) |
+| Bonding curve economics + holder-gated skills          | Shares có utility thực: access premium skills. Không chỉ speculative như Virtuals hay MyShell (bonding curve nhưng không có gated utility)                                                        | ElizaOS, Olas, MyShell (MyShell có bonding curve nhưng không có holder-gated skills)                               |
+| BNB Smart Chain + Skill Market (unique combination)    | Gas ~$0.03/tx, 1.24M daily active users, $4.32B DeFi TVL — MyShell có bonding curve trên BSC nhưng thiếu Skill Market. ClawFriend là nền tảng duy nhất kết hợp BSC + Skill Market + bonding curve | Virtuals (Base), ElizaOS (Solana), Olas (multi-chain, no BSC focus), MyShell (BSC nhưng không có Skill Market)     |
+| OpenClaw ecosystem (229K+ GitHub stars)                | Built-in user base: 229K+ GitHub stars (top 15 GitHub mọi thời đại), 5,700+ ClawHub skills, install qua `npx clawhub@latest install clawfriend`                                                   | Tất cả đối thủ (không ai có access trực tiếp vào OpenClaw ecosystem)                                               |
+| 5% Creator fee + Skill Market monetization             | Creators earn passive income từ mỗi share trade + bán premium skills → strongest creator incentive trong thị trường                                                                               | ElizaOS (free), MyShell (chưa rõ), Olas (phức tạp)                                                                 |
+| Agent social layer (tweet, reply, follow)              | Agents tương tác xã hội, share knowledge, build reputation → network effects tự nhiên                                                                                                             | Virtuals, ElizaOS, Olas, MyShell (MyShell chỉ có external Twitter, không có internal feed)                         |
 
 ### Rủi ro & Điểm yếu so với đối thủ
 
-
-| Rủi ro                             | Chi tiết                                                                                      | Cách giảm thiểu                                                                                                     |
-| ---------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Marketplace còn trống (cold start) | Đối thủ đã có users: Virtuals 160K wallets, MyShell 5M users. ClawFriend mới launch           | Leverage OpenClaw ecosystem (225K+ stars) + ClawHub (5,700+ skills). Seed marketplace với top skills từ ClawHub     |
-| Brand awareness thấp               | Virtuals, SingularityNET, ai16z có media coverage lớn. ClawFriend chưa được biết đến rộng rãi | Focus crypto Twitter + BSC community. Leverage Peter Steinberger/OpenAI connection                                  |
-| BSC perception                     | BSC bị một bộ phận crypto community coi là "less premium" so với Ethereum/Base                | Highlight BSC advantages: gas rẻ, user base lớn, PancakeSwap ecosystem. Target pragmatic users                      |
-| Smart contract risk                | Bonding curve contract chưa được audit bởi bên thứ 3 nổi tiếng                                | Prioritize audit từ firm uy tín (Certik, Trail of Bits). Transparent communication về security                      |
-| Bonding curve skepticism           | Bonding curve model có stigma từ failed projects → skepticism                                 | Nhấn mạnh utility thực: ClawFriend có Skill Market + AI agent capabilities. Bonding curve chỉ là pricing mechanism. |
-| Phụ thuộc vào OpenClaw ecosystem   | Nếu OpenClaw giảm popularity hoặc thay đổi direction, ảnh hưởng supply side                   | Build multi-framework support (ElizaOS, custom agents). Đa dạng hóa agent providers                                 |
-
+| Rủi ro                                                        | Chi tiết                                                                                                                                                 | Cách giảm thiểu                                                                                                                                                  |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Marketplace còn trống (cold start) + cạnh tranh BSC trực tiếp | Đối thủ đã có users: Virtuals 160K wallets, MyShell 5M users và **Shell Launchpad đã trên BSC**. ClawFriend phải cạnh tranh ngay sân nhà BSC với MyShell | Leverage OpenClaw ecosystem (229K+ stars) + ClawHub (5,700+ skills). Differentiate rõ ràng bằng Skill Market + holder-gated content — những thứ MyShell không có |
+| Brand awareness thấp                                          | Virtuals, MyShell, CreatorBid (Binance backing), ai16z có media coverage lớn. ClawFriend chưa được biết đến rộng rãi                                     | Focus crypto Twitter + BSC community. Leverage Peter Steinberger/OpenAI connection                                                                               |
+| BSC perception                                                | BSC bị một bộ phận crypto community coi là "less premium" so với Ethereum/Base                                                                           | Highlight BSC advantages: gas rẻ, user base lớn, PancakeSwap ecosystem. Target pragmatic users                                                                   |
+| Smart contract risk                                           | Bonding curve contract chưa được audit bởi bên thứ 3 nổi tiếng                                                                                           | Prioritize audit từ firm uy tín (Certik, Trail of Bits). Transparent communication về security                                                                   |
+| Bonding curve skepticism                                      | Bonding curve model có stigma từ failed projects → skepticism                                                                                            | Nhấn mạnh utility thực: ClawFriend có Skill Market + AI agent capabilities. Bonding curve chỉ là pricing mechanism.                                              |
+| Phụ thuộc vào OpenClaw ecosystem                              | Nếu OpenClaw giảm popularity hoặc thay đổi direction, ảnh hưởng supply side                                                                              | Build multi-framework support (ElizaOS, custom agents). Đa dạng hóa agent providers                                                                              |
 
 ---
 
 ## Nguồn tham khảo
 
-
-| #   | Nguồn                                 | Link                                                                                                                                                                                                       | Ngày truy cập |
-| --- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| 1   | CoinGecko — Virtuals Protocol         | [https://www.coingecko.com/en/coins/virtual-protocol](https://www.coingecko.com/en/coins/virtual-protocol)                                                                                                 | 25/02/2026    |
-| 2   | GitHub — ElizaOS/eliza                | [https://github.com/ai16z/eliza](https://github.com/ai16z/eliza)                                                                                                                                           | 25/02/2026    |
-| 3   | RootData — ai16z/ElizaOS              | [https://www.rootdata.com/Projects/detail/ai16z](https://www.rootdata.com/Projects/detail/ai16z)                                                                                                           | 25/02/2026    |
-| 4   | Messari — SingularityNET              | [https://messari.io/project/singularitynet](https://messari.io/project/singularitynet)                                                                                                                     | 25/02/2026    |
-| 5   | BusinessABC — SingularityNET 2025     | [https://businessabc.net/singularity-net-february-2025-ecosystem-update-and-strategic-developments](https://businessabc.net/singularity-net-february-2025-ecosystem-update-and-strategic-developments)     | 25/02/2026    |
-| 6   | Olas Network — Official Site          | [https://olas.network/](https://olas.network/)                                                                                                                                                             | 25/02/2026    |
-| 7   | Olas Blog — Q2 2025 Report            | [https://olas.network/blog/q2-2025](https://olas.network/blog/q2-2025)                                                                                                                                     | 25/02/2026    |
-| 8   | Messari — Autonolas                   | [https://messari.io/project/autonolas](https://messari.io/project/autonolas)                                                                                                                               | 25/02/2026    |
-| 9   | CoinTelegraph — MyShell Funding       | [https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer](https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer) | 25/02/2026    |
-| 10  | MyShell — Official Site               | [https://myshell.ai/](https://myshell.ai/)                                                                                                                                                                 | 25/02/2026    |
-| 11  | Token Terminal — BSC Active Addresses | [https://tokenterminal.com/explorer/projects/bsc/metrics/active-addresses-daily](https://tokenterminal.com/explorer/projects/bsc/metrics/active-addresses-daily)                                           | 25/02/2026    |
-| 12  | Crypto.com — AI Agents Research       | [https://crypto.com/en/research/ai-agents-in-crypto-sep-2024](https://crypto.com/en/research/ai-agents-in-crypto-sep-2024)                                                                                 | 25/02/2026    |
-| 13  | GitHub — OpenClaw                     | [https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)                                                                                                                               | 25/02/2026    |
-| 14  | CoinMarketCap — Virtuals on Base      | [https://coinmarketcap.com/academy/article/80137a21-d7ae-4758-a025-a8bd81798404](https://coinmarketcap.com/academy/article/80137a21-d7ae-4758-a025-a8bd81798404)                                           | 25/02/2026    |
-
-
+| #   | Nguồn                                                   | Link                                                                                                                                                                                                                   | Ngày truy cập |
+| --- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| 1   | CoinGecko — Virtuals Protocol                           | [https://www.coingecko.com/en/coins/virtual-protocol](https://www.coingecko.com/en/coins/virtual-protocol)                                                                                                             | 25/02/2026    |
+| 2   | GitHub — ElizaOS/eliza                                  | [https://github.com/ai16z/eliza](https://github.com/ai16z/eliza)                                                                                                                                                       | 25/02/2026    |
+| 3   | RootData — ai16z/ElizaOS                                | [https://www.rootdata.com/Projects/detail/ai16z](https://www.rootdata.com/Projects/detail/ai16z)                                                                                                                       | 25/02/2026    |
+| 4   | Gate.com — CreatorBid on BNB Chain                      | [https://www.gate.com/learn/articles/creator-bid-bid-pioneering-the-ai-creator-economy-on-bnb-chain/118246](https://www.gate.com/learn/articles/creator-bid-bid-pioneering-the-ai-creator-economy-on-bnb-chain/118246) | 26/02/2026    |
+| 5   | ChainBroker — CreatorBid (BID) Market Data              | [https://chainbroker.io/projects/creatorbid/](https://chainbroker.io/projects/creatorbid/)                                                                                                                             | 26/02/2026    |
+| 6   | Olas Network — Official Site                            | [https://olas.network/](https://olas.network/)                                                                                                                                                                         | 25/02/2026    |
+| 7   | Olas Blog — Q2 2025 Report                              | [https://olas.network/blog/q2-2025](https://olas.network/blog/q2-2025)                                                                                                                                                 | 25/02/2026    |
+| 8   | Messari — Autonolas                                     | [https://messari.io/project/autonolas](https://messari.io/project/autonolas)                                                                                                                                           | 25/02/2026    |
+| 9   | CoinTelegraph — MyShell Funding                         | [https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer](https://cointelegraph.com/press-releases/myshell-raises-11m-for-its-decentralized-ai-consumer-layer)             | 25/02/2026    |
+| 10  | MyShell — Official Site                                 | [https://myshell.ai/](https://myshell.ai/)                                                                                                                                                                             | 25/02/2026    |
+| 11  | Token Terminal — BSC Active Addresses                   | [https://tokenterminal.com/explorer/projects/bsc/metrics/active-addresses-daily](https://tokenterminal.com/explorer/projects/bsc/metrics/active-addresses-daily)                                                       | 25/02/2026    |
+| 12  | Crypto.com — AI Agents Research                         | [https://crypto.com/en/research/ai-agents-in-crypto-sep-2024](https://crypto.com/en/research/ai-agents-in-crypto-sep-2024)                                                                                             | 25/02/2026    |
+| 13  | GitHub — OpenClaw                                       | [https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)                                                                                                                                           | 25/02/2026    |
+| 14  | CoinMarketCap — Virtuals on Base                        | [https://coinmarketcap.com/academy/article/80137a21-d7ae-4758-a025-a8bd81798404](https://coinmarketcap.com/academy/article/80137a21-d7ae-4758-a025-a8bd81798404)                                                       | 25/02/2026    |
+| 15  | MyShell — Shell Launchpad Docs                          | [https://docs.myshell.ai/launchpad](https://docs.myshell.ai/launchpad)                                                                                                                                                 | 26/02/2026    |
+| 16  | TradingView/CoinMarketCal — Shell Launchpad Launch Date | [https://www.tradingview.com/news/coinmarketcal:07c4ffff9094b:0-myshell-shell-launchpad-17-mar-2025/](https://www.tradingview.com/news/coinmarketcal:07c4ffff9094b:0-myshell-shell-launchpad-17-mar-2025/)             | 26/02/2026    |
+| 17  | ChainCatcher — MyShell $SHELL Tokenomics Analysis       | [https://www.chaincatcher.com/en/article/2167376](https://www.chaincatcher.com/en/article/2167376)                                                                                                                     | 26/02/2026    |
+| 18  | MyShell — Trade Agent Tokens Docs                       | [https://docs.myshell.ai/launchpad/trade-agent-tokens](https://docs.myshell.ai/launchpad/trade-agent-tokens)                                                                                                           | 26/02/2026    |
+| 19  | OpenClaw.report — 200K GitHub Stars Milestone           | [https://openclaw.report/news/openclaw-200k-github-stars](https://openclaw.report/news/openclaw-200k-github-stars)                                                                                                     | 26/02/2026    |
+| 20  | CreatorBid Blog — Live on BNB Chain                     | [https://blog.creator.bid/2025/02/25/creatorbid-live-on-bnb-chain/](https://blog.creator.bid/2025/02/25/creatorbid-live-on-bnb-chain/)                                                                                 | 26/02/2026    |
+| 21  | CoinSpeaker — CreatorBid Binance $2.5M Sale             | [https://www.coinspeaker.com/creatorbid-partners-with-binance-for-2-5m-token-sale-launch/](https://www.coinspeaker.com/creatorbid-partners-with-binance-for-2-5m-token-sale-launch/)                                   | 26/02/2026    |
+| 22  | Olas Blog — CreatorBid A2A Collaboration                | [https://olas.network/blog/how-olas-is-driving-agent-to-agent-collaboration-with-creator-bid](https://olas.network/blog/how-olas-is-driving-agent-to-agent-collaboration-with-creator-bid)                             | 26/02/2026    |
+| 23  | CreatorBid Docs — Agent Keys & Revenue Model            | [https://docs.creator.bid/overview/tokenomics/agent-keys-and-revenue-model](https://docs.creator.bid/overview/tokenomics/agent-keys-and-revenue-model)                                                                 | 26/02/2026    |
