@@ -116,11 +116,11 @@ CONTINUOUS: ORGANIC COMPOUNDING
 
 ---
 
-### KÊNH 1 (Paid): Twitter/X Ads + Reddit Ads (Backup) — $3,500
+### KÊNH 1 (Paid): Twitter/X Ads + Reddit Ads (Backup) — $3,000
 
-**Phân chia nội bộ $3,500:**
+**Phân chia nội bộ $3,000:**
 
-- **$3,000 — Twitter/X Ads (primary):** 80%+ crypto discourse trên X, target được followers của Virtuals/BSC/AI accounts
+- **$2,500 — Twitter/X Ads (primary):** 80%+ crypto discourse trên X, target được followers của Virtuals/BSC/AI accounts
 - **$500 — Reddit Ads (backup tự động kích hoạt nếu X Ads bị reject):** CPC $0.20–0.50, gần như không bị restrict với crypto content, r/cryptocurrency (7.5M members) + r/BNBChain
 
 **Nếu X Ads không bị reject:** dùng $500 Reddit để chạy song song — reach audience developer trên r/ethereum, r/web3dev (audience khác hoàn toàn với X).
@@ -138,7 +138,7 @@ CONTINUOUS: ORGANIC COMPOUNDING
 
 #### Action Plan — Tuần từng tuần
 
-**Tuần 1: Setup & Launch (Budget: $500)**
+**Tuần 1: Setup & Launch (Budget: $400)**
 
 _Ngày 1–2 (Setup):_
 
@@ -160,23 +160,23 @@ _Ngày 3–5 (Creative Production):_
 
 _Ngày 6–7 (Launch):_
 
-- Launch A/B test: Creative A × Audience A = $125. Creative B × Audience B = $125. Creative C × Audience C = $125. $125 buffer.
+- Launch A/B test: Creative A × Audience A = $100. Creative B × Audience B = $100. Creative C × Audience C = $100. $100 buffer.
 - UTM params: `?utm_source=twitter_ads&utm_medium=paid&utm_campaign=m1_[creative]_[audience]`
 
-**Tuần 2: Optimize (Budget: $750)**
+**Tuần 2: Optimize (Budget: $650)**
 
 - Ngày 8: Pull data → Kill creatives có CTR < 0.8% hoặc CPC > $1.5
 - Ngày 9: Nếu Audience A (BSC DeFi) outperform → reallocate 70/30 sang Audience A
 - Ngày 10: Tạo 1 creative mới dựa trên top performer — nếu Video A tốt nhất → làm video B demo Skill Builder Contest
 - Ngày 11–14: Run optimized campaigns, monitor daily trong X Ads Manager → check Cost per Result, CTR, CPC
 
-**Tuần 3: Scale + Retargeting (Budget: $800)**
+**Tuần 3: Scale + Retargeting (Budget: $750)**
 
 - Setup retargeting: X Ads → Audiences → Create audience từ pixel → "Visited clawfriend.ai last 14 days, did NOT signup"
 - Lookalike audience: Upload danh sách email/wallet của signups tuần 1–2 → Create lookalike trên X Ads
 - Scale: Tăng budget 2x cho top performing ad set
 
-**Tuần 4: Final Push + Review (Budget: $450)**
+**Tuần 4: Final Push + Review (Budget: $700)**
 
 - Spend remaining budget vào top performer
 - Export report: Spend, Impressions, CPC, CTR, Signups (UTM), CAC
@@ -203,18 +203,18 @@ Từ competitive analysis: Virtuals users đang thất vọng vì token giảm 7
 
 #### Metrics & ROI dự kiến (X Ads + Reddit Ads)
 
-| Channel         | Budget     | Clicks ước tính  | CPC        | Signups    | CAC        |
-| --------------- | ---------- | ---------------- | ---------- | ---------- | ---------- |
-| Twitter/X Ads   | $3,000     | 1,500–7,500      | $0.40–2.00 | 60–300     | $10–50     |
-| Reddit Ads      | $500       | 1,000–2,500      | $0.20–0.50 | 20–75      | $6.67–25   |
-| **Tổng Kênh 1** | **$3,500** | **2,500–10,000** |            | **80–375** | **~$9–44** |
+| Channel         | Budget     | Clicks ước tính | CPC        | Signups    | CAC        |
+| --------------- | ---------- | --------------- | ---------- | ---------- | ---------- |
+| Twitter/X Ads   | $2,500     | 1,250–6,250     | $0.40–2.00 | 50–250     | $10–50     |
+| Reddit Ads      | $500       | 1,000–2,500     | $0.20–0.50 | 20–75      | $6.67–25   |
+| **Tổng Kênh 1** | **$3,000** | **2,250–8,750** |            | **70–325** | **~$9–43** |
 
-> **Lưu ý CPC thực tế X Ads:** Benchmark lý tưởng là $0.40–0.60, nhưng crypto niche biến động có thể đẩy lên $1–2. Với $3,000, ngay cả CPC $2 vẫn cho 1,500 clicks từ đúng audience — đủ để test và optimize. Nếu CPC > $3 mà không có conversion sau 3 ngày → dừng campaign, rewrite creative.
+> **Lưu ý CPC thực tế X Ads:** Benchmark lý tưởng là $0.40–0.60, nhưng crypto niche biến động có thể đẩy lên $1–2. Với $2,500, ngay cả CPC $2 vẫn cho 1,250 clicks từ đúng audience — đủ để test và optimize. Nếu CPC > $3 mà không có conversion sau 3 ngày → dừng campaign, rewrite creative.
 
 **Dự phòng X Ads bị reject:**
 
 - Ngay lập tức: Rewrite copy → thay toàn bộ "trade/earn/invest/profit" bằng "build/deploy/explore/discover"
-- Nếu vẫn reject: Chuyển $3,000 X Ads → $1,500 Reddit Ads + $1,500 vào KOL performance bonus pool
+- Nếu vẫn reject: Chuyển $2,500 X Ads → $1,000 Reddit Ads + $1,500 vào KOL performance bonus pool
 
 ---
 
