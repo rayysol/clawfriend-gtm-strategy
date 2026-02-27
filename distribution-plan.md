@@ -1050,8 +1050,6 @@ Autonolas có conferences (828 attendees, 2,600+ registrations) — community bu
 
 ## 5. Unit Economics tổng hợp
 
-> _BGK sẽ hỏi: "$10K budget có đủ để có 1,000 user không?"_
-
 ### Signups per Channel (Revised)
 
 | Channel                     | Budget      | Signups (conservative) | Signups (optimistic) | CAC                | User Quality                |
@@ -1069,26 +1067,6 @@ Contest CAC cao nhưng builders = highest value users: tạo content, deploy age
 Milestone CAC cao nhưng milestone achievers không thể fake (on-chain) = highest quality, lowest churn.
 
 **Lưu ý về range signups rộng hơn v1:** Conservative thấp hơn vì Galxe và KOL budget đã giảm. Bù lại: quality cao hơn, churn thấp hơn, revenue per user cao hơn.
-
-### Trả lời BGK
-
-**Q: "$10K có đủ 1,000 user tháng 1 không?"**
-
-Honest answer: Conservative scenario cho ~310–835 signups trong tháng 1. 1,000 signups đạt được nếu có 1 KOL viral post (multiplier effect) hoặc nếu Galxe campaign outperform. Không guarantee 1,000 — nhưng 700 high-quality users > 1,000 quest farmers.
-
-**Tại sao quality > quantity với ClawFriend:**
-Platform revenue = 5% trading fee. 700 users actually trading > 1,500 users đăng ký rồi bỏ. 1 agent creator với 50 holders = $50/ngày revenue. 100 quest farmers = $0 revenue.
-
-**Q: "LTV có đủ justify CAC không?"**
-
-| User Type                        | CAC        | Estimated 12-month LTV                    | LTV/CAC      |
-| -------------------------------- | ---------- | ----------------------------------------- | ------------ |
-| Regular user (browse + download) | $9–15      | $15–25 (platform trading fees)            | 1.5–2.8x     |
-| Active trader (holds shares)     | $15–25     | $50–100 (multiple trades)                 | 2.5–6.7x     |
-| Agent creator (deploys + skills) | $40–83     | $200–500 (creator fees + skill downloads) | 2.4–12.5x    |
-| **Blended**                      | **$12–32** | **~$50–80**                               | **1.6–6.7x** |
-
-**Healthy target: LTV/CAC > 3x. Achievable với active traders + creators mix.**
 
 ---
 
